@@ -16,7 +16,6 @@
 
 ## JavaScript
 
- - [Современный учебник JavaScript](https://learn.javascript.ru/)
  - [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
  - [Тема на Хабре](https://habr.com/ru/hub/javascript/)
  - [Awesome-javascript](https://github.com/sorrycc/awesome-javascript)
@@ -45,30 +44,19 @@
 ## Общее
 
  - [Дорожная карта фронтендера](https://roadmap.sh/frontend)
- - [Дока (HTML, CSS, JavaScript)](https://doka.guide/)
  - [10 игр для изучения JavaScript](https://techrocks.ru/2023/01/09/10-games-for-javascript-learning/)
  - [Proglib](https://proglib.io/)
  - [Tproger](https://tproger.ru/)
  - [Учебники и статьи для Программистов](https://codernet.ru/)
  - [Документация, методология БЭМ](https://ru.bem.info/)
  - [Создание аватара](https://pfpmaker.com/)
- - [Проверка совместимости технологий](https://caniuse.com/)
  - [Коллекция нейронных сетей](https://github.com/ai-collection/ai-collection)
- - [Иконки](https://thenounproject.com/)
  - [Библиотека кода github](https://grep.app/)
  - [Metanit - сайт о программировании](https://metanit.com/)
  - [Поисковик онлайн-репозиториев](https://libraries.io/)
  - [Cервис для автоматической проверки качества кода](https://www.codefactor.io/)
  - [Cервис для облегчения создания резюме](https://resume.io/)
  - [Коллекция инструментов для дизайна](https://undesign.learn.uno/)
-
- ## Подготовка к собеседованию
-
- - [70 вопросов по JavaScript](https://habr.com/ru/articles/486820/)
- - [Front-end. Вопросы на собеседовании](https://www.youtube.com/watch?v=ycYp7CYOnO0&list=PLNkWIWHIRwMFSLI9wBuHxuGI5lAZ7QNUg&ab_channel=webDev)
- - [Dev Questions - Шпаргалки по вопросам с IT-собеседований](https://dev-questions.com/)
- - [Владилен Минин - Подготовка к JavaScript собеседованию](https://youtu.be/M_pclb-58ZY)
- - [Решение задач, itresume](https://itresume.ru/)
 
 ## Полезные программы
 
@@ -99,28 +87,6 @@
  - [Генератор Readme](https://rahuldkjain.github.io/gh-profile-readme-generator/)
  - [Генератор Readme](https://www.profileme.dev/)
  - [Составление файла Readme](https://readme.so/ru)
-
-## Telegram каналы
-
- - [Всё по фронтенду, бэкенду и девопсу в одном месте](https://t.me/tproger_web)
- - [Полезные материалы по всему, что может быть интересно программисту](https://t.me/proglibrary)
- - [Библиотека программиста](https://t.me/frontendbooksit)
- - [Годные статьи для Frontend разработчиков](https://t.me/frontendnoteschannel)
- - [Регулярные заметки по практическому JavaScript](https://t.me/notesjs)
- - [Уникальные статьи и переводы](https://t.me/nuancesprog)
- - [Обо всём что связано с frontend разработкой](https://t.me/frontend_mind)
- - [Лагерь IT-специалистов](https://t.me/codecamp)
- - [Канал для подготовки к собеседованиям по фронтенду](https://t.me/frontendInterview)
- - [Твой наставник в мире веб-разработки](https://t.me/WebMentor)
- - [Полезные материалы по всему, что может быть интересно frontend-разработчику](https://t.me/frontendproglib)
-
-## YouTube каналы
-
- - [webDev - образовательный канал о веб-разработке](https://www.youtube.com/@YauhenKavalchuk/featured)
- - [Гоша Дударь - различные подборки видео уроков по созданию сайтов, игр, программ](https://www.youtube.com/c/gosha_dudar)
- - [Хауди Хо - Просто о мире IT](https://www.youtube.com/@HowdyhoNet)
- - [Владилен Минин - видео про фронтенд](https://www.youtube.com/@HowdyhoNet)
- - [Михаил Непомнящий - просто о веб-разработке](https://www.youtube.com/@mishanep/featured)
 
 
 ## Тренировка написания кода
